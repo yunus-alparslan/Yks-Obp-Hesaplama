@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\bin\Debug\Proje10.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\bin\Debug\Proje10.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\bin\Debug\Proje10.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\obj\Debug\Proje10.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\obj\Debug\Proje10.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\obj\Debug\Proje10.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\obj\Debug\Proje10.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\obj\Debug\Proje10.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\10-Proje\Proje10\Proje10\obj\Debug\Proje10.pdb
